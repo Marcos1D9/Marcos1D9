@@ -50,7 +50,7 @@ You can see my proyects down there 👇👇
 
 <img src="https://user-images.githubusercontent.com/86478321/179861563-56f568b5-6d9a-4ee0-96c0-f7bea419a655.png" width="600" height="300">
 
-You can take a look if it right here: https://e-commerce-books.vercel.app/
+You can take a look of it right here: https://e-commerce-books.vercel.app/
 
 ## Things I've learned with this project
 
