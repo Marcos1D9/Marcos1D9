@@ -1,2 +1,2 @@
-# Marcos-Damian-Ezequiel-Medina
-You can get to know me better here
+# Hi! I'm Marcos Damián Medina, a full-stack web developer 😄
+
