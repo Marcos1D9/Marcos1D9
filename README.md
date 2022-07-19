@@ -5,7 +5,7 @@
 
 ⚡ Languages and tools:
 
-*Frontend:* 
+**Frontend:**
 
 ✅ JavaScript
 
@@ -17,7 +17,7 @@
 
 ✅ CSS3
 
-*Backend:* 
+**Backend:**
 
 ✔️ Postgresql
 
@@ -36,17 +36,17 @@ You can see my proyects down there 👇👇
 
 // ----------------------------------------------------------------------------------------------------------------------------
 
-*This is my books E-Commerce*
+**This is my books E-Commerce**
 You can take a look if it right here: https://e-commerce-books.vercel.app/
 
 I learned a lot of things with that project, 
 
-*for example, talking about soft-skills*
+**for example, talking about soft-skills**
 
 I worked in a group of developers to plain and assing the tasks to made the project
 
 
-*And about my technical skills adquired*
+**And about my technical skills adquired**
 
 I developed the routes of commentaries, hiding of books and authors, carrousel for landing page functionalities
 
