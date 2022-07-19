@@ -56,12 +56,12 @@ You can take a look if it right here: https://e-commerce-books.vercel.app/
 
 ### I learned some soft-skills Like
 
-- Working in a group of developers to plain and assing the tasks to made the project
+- Working in a group of developers to plain and assign the tasks to made the project
 
 
 **And about my technical skills adquired**
 
-- Developing routes of commentaries, hiding of books and authors, carrousel for landing page functionalities
+- Development of comment routes, book and author hiding, carousel for landing page features.
 
-- Learning about a new database MongoDb and use his ORM Mongoose to do access to it
+- Get information about a new MongoDb database and use your Mongoose ORM to access it
 
