@@ -1,7 +1,8 @@
 # Hi! I'm Marcos Damián Medina 😄
 ### I'm a Full-stack web developer from Argentina 🌐
 
-![pexels-danny-meneses-943096](https://user-images.githubusercontent.com/86478321/179819540-841ffa8e-aab7-479f-a102-5b04f3b0b41e.jpg)
+<img src="https://user-images.githubusercontent.com/86478321/179859451-82a266e4-7c0b-4737-841a-025d55913b0c.jpg" width="900" height="500">
+
 
 ⚡ Languages and tools:
 
@@ -34,21 +35,33 @@
 You can see my proyects down there 👇👇
 
 
-// ----------------------------------------------------------------------------------------------------------------------------
+// -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**This is my books E-Commerce**
+# This is my books E-Commerce
+### As my native language, the app it's in Spanish
+<img src="https://user-images.githubusercontent.com/86478321/179860595-b0152c3e-f5a3-48f3-b16f-f18073ce5607.png" width="600" height="300">
+
+
+<img src="https://user-images.githubusercontent.com/86478321/179860937-7b5c483b-2ce8-4f91-92f9-c815637a95e7.png" width="600" height="300">
+
+
+<img src="https://user-images.githubusercontent.com/86478321/179861205-e0d5165b-d8fe-4ca6-9207-1d50c7e3589a.png" width="600" height="300">
+
+
+<img src="https://user-images.githubusercontent.com/86478321/179861563-56f568b5-6d9a-4ee0-96c0-f7bea419a655.png" width="600" height="300">
+
 You can take a look if it right here: https://e-commerce-books.vercel.app/
 
-I learned a lot of things with that project, 
+## Things I've learned with this project
 
-**for example, talking about soft-skills**
+### I learned some soft-skills Like
 
-I worked in a group of developers to plain and assing the tasks to made the project
+- Working in a group of developers to plain and assing the tasks to made the project
 
 
 **And about my technical skills adquired**
 
-I developed the routes of commentaries, hiding of books and authors, carrousel for landing page functionalities
+- Developing routes of commentaries, hiding of books and authors, carrousel for landing page functionalities
 
-I learned about a new database MongoDb and use his ORM Mongoose to do access to it
+- Learning about a new database MongoDb and use his ORM Mongoose to do access to it
 
