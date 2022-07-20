@@ -58,6 +58,9 @@ You can take a look of it right here: https://e-commerce-books.vercel.app/
 
 - Working in a group of developers to plain and assign the tasks to made the project
 
+- Coordinating with my colleagues to connect their work by unifying the frontend with the backend
+
+- Work under pressure, on a fixed date and improving my sense of responsibility
 
 **And about my technical skills adquired**
 
