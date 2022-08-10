@@ -86,7 +86,9 @@ To go to the main home page, you must click the 'Enter' button
 
 ### This is the home page
 <img src="https://user-images.githubusercontent.com/86478321/183966454-6dfec5f4-4cab-49f9-a787-1ba0c02f0fbc.png" width="600" height="300">
+
 ### Here you can:
+
 -  Use the search bar to find the breed you are looking for 
 -  Filter to find your created dogs or only see the api dogs (the default ones)
 -  Order by weight an order alphabetically
