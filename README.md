@@ -74,7 +74,7 @@
 
 // ----------------------------------------------------------------------------------------------------------------------------------------------------
 # My individual proyect (PI in Spanish)
-## This app is made for everyone who want to know more about an specific breed information, you can also create your own breed in the "Create breed" left-side bar button
+### This app is made for everyone who want to know more about an specific breed information, you can also create your own breed in the "Create breed" left-side bar button
 ### You can take a look of this one too here in my deploy: https://pi-dogs-one-topaz.vercel.app/
 
 #### Here you have some images just in case you are in mobile (because this app it´s made for pc)
