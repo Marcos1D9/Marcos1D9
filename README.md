@@ -119,5 +119,12 @@ To go to the main home page, you must click the 'Enter' button
 <img src="https://user-images.githubusercontent.com/86478321/183997730-520e1864-f443-41f3-b78e-7a118891a54d.png" width="600" height="300">
 
 ### After setting up everything your new breed will be displayed on the home page
-#### the most easy way to see how your breed was added to home page is filtering by created breeds
+#### the most easy way to see how your breed was added to home page is filtering by 'created breeds' option
+
 <img src="https://user-images.githubusercontent.com/86478321/184000139-f6a42096-20f5-409b-a9a7-765e8eff2aa6.png" width="600" height="300">
+
+### To see your new created breed details, just click on its image and you'll see this
+<img src="https://user-images.githubusercontent.com/86478321/184001960-551d68e8-bd2a-4727-a4e2-cda27c492fff.png" width="600" height="300">
+
+### You can go back to the home page by clicking 'Go back' button
+<img src="https://user-images.githubusercontent.com/86478321/184002753-fdd2c8f7-c8ac-4086-86f6-5bac4c07cea4.png" width="600" height="300">
