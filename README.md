@@ -82,7 +82,11 @@
 ##### This is the landing page
 <img src="https://user-images.githubusercontent.com/86478321/183962093-01d6357e-e3d4-48d8-bd84-c33a5a82aa0a.png" width="600" height="300">
 
-- This is the home page, here you can:
+To go to the main home page, you must click the 'Enter' button 
+
+##### This is the home page, here you can:
+<img src="https://user-images.githubusercontent.com/86478321/183966454-6dfec5f4-4cab-49f9-a787-1ba0c02f0fbc.png" width="600" height="300">
+
 -  Use the search bar to find the breed you are looking for 
 -  Filter to find your created dogs or only see the api dogs (the default ones)
 -  Order by weight an order alphabetically
