@@ -37,11 +37,12 @@
 
 // ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-# This is my books E-Commerce
+# This is my books E-Commerce named 'Grow Up'
 ### As my native language, the app it's in Spanish
 
 #### You can take a look of it right here: https://e-commerce-books.vercel.app/
 
+### Here is also a Youtube video that explains the navigation on the website (It is an Spanish version): https://www.youtube.com/watch?v=xK3BDZ7JuFk&feature=youtu.be
 <img src="https://user-images.githubusercontent.com/86478321/179860595-b0152c3e-f5a3-48f3-b16f-f18073ce5607.png" width="600" height="300">
 
 
