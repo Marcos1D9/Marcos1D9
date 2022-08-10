@@ -105,3 +105,14 @@ To go to the main home page, you must click the 'Enter' button
 -  The life span of your breed (in years)
 -  The temperament to set the personality of the breed (Optional)
 -  A specific image to show your breed to the world
+
+### Once you set everything up, you can press the 'Add new breed' button
+<img src="https://user-images.githubusercontent.com/86478321/183997628-a974e622-afb5-41e8-b3ee-e756d4414ae8.png" width="600" height="300">
+### And a success alert will appear
+<img src="https://user-images.githubusercontent.com/86478321/183997524-2c59024a-19e8-412b-9741-5c1d6fc19ee1.png" width="600" height="300">
+### If you want to come back to the home page just need to press 'Go back' button
+<img src="https://user-images.githubusercontent.com/86478321/183997730-520e1864-f443-41f3-b78e-7a118891a54d.png" width="600" height="300">
+
+### After setting up everything your new breed will be displayed on the home page
+#### the most easy way to see how your breed was added to home page is filtering by created breeds
+<img src="https://user-images.githubusercontent.com/86478321/184000139-f6a42096-20f5-409b-a9a7-765e8eff2aa6.png" width="600" height="300">
