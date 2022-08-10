@@ -32,7 +32,7 @@
 
 ✔️ MongoDb
 
-You can see my proyects down there 👇👇
+# You can see my proyects down there 👇👇
 
 
 // -----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -67,4 +67,8 @@ You can take a look of it right here: https://e-commerce-books.vercel.app/
 - Development of comment routes, book and author hiding, carousel for landing page features.
 
 - Get information about a new MongoDb database and use your Mongoose ORM to access it
+
+
+
+
 
