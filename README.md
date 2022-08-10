@@ -77,7 +77,7 @@
 ### This app is made for everyone who want to know more about an specific breed information, you can also create your own breed in the "Create breed" left-side bar button
 #### You can take a look of this one too here in my deploy: https://pi-dogs-one-topaz.vercel.app/
 
-#### Here you have some images just in case you are in mobile (because this app it´s made for pc)
+#### Here you have some images just in case you are in mobile (because this app is made for pc)
 
 ### This is the landing page
 <img src="https://user-images.githubusercontent.com/86478321/183962093-01d6357e-e3d4-48d8-bd84-c33a5a82aa0a.png" width="600" height="300">
@@ -95,4 +95,4 @@ To go to the main home page, you must click the 'Enter' button
 -  Create your own breed in the "Create breed" left-side bar button
 
 
-
+### This is the breed creation page
