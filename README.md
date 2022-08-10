@@ -74,7 +74,7 @@
 
 // ----------------------------------------------------------------------------------------------------------------------------------------------------
 # My individual proyect (PI in Spanish)
-### This app is made for everyone who want to know more about an specific breed information, you can also create your own breed in the "Create breed" left-side bar button
+### This app is made for everyone who want to know more about a specific breed information, you can also create your own breed in the "Create breed" left-side bar button
 #### You can take a look of this one too here in my deploy: https://pi-dogs-one-topaz.vercel.app/
 
 #### Here you have some images just in case you are in mobile (because this app is made for pc)
@@ -84,9 +84,9 @@
 
 To go to the main home page, you must click the 'Enter' button 
 
-### This is the home page, here you can:
+### This is the home page
 <img src="https://user-images.githubusercontent.com/86478321/183966454-6dfec5f4-4cab-49f9-a787-1ba0c02f0fbc.png" width="600" height="300">
-
+### Here you can:
 -  Use the search bar to find the breed you are looking for 
 -  Filter to find your created dogs or only see the api dogs (the default ones)
 -  Order by weight an order alphabetically
@@ -96,3 +96,12 @@ To go to the main home page, you must click the 'Enter' button
 
 
 ### This is the breed creation page
+<img src="https://user-images.githubusercontent.com/86478321/183986684-f4f73b20-d789-4704-a785-102c1d853a07.png" width="600" height="300">
+
+### Here you can set:
+-  The name for your own new breed
+-  The minimum and maximum breed height (in centimeters)
+-  The minimum and maximum breed weight (in kilograms)
+-  The life span of your breed (in years)
+-  The temperament to set the personality of the breed (Optional)
+-  A specific image to show your breed to the world
