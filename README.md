@@ -70,7 +70,7 @@
 
 - Development and creation of book and author hiding functionality for administrators
 
-- carousel logic and functionality for landing page features.
+- Carousel logic and functionality for landing page features.
 
 - Learned how to use MongoDb database and its Mongoose ODM (Object Document Mapping)
 
