@@ -32,7 +32,7 @@
 
 ✔️ MongoDb
 
-# You can see my proyects down there 👇👇
+# You can see my projects down there 👇👇
 
 
 // ----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -74,7 +74,7 @@
 
 
 // ----------------------------------------------------------------------------------------------------------------------------------------------------
-# My individual proyect (PI in Spanish)
+# My individual project (PI in Spanish)
 ### This app is made for everyone who want to know more about a specific breed information, you can also create your own breed
 
 #### You can take a look of this one too here in my deploy: https://pi-dogs-one-topaz.vercel.app/
@@ -130,3 +130,21 @@ To go to the main home page, you must click the 'Enter' button
 
 ### You can go back to the home page by clicking 'Go back' button
 <img src="https://user-images.githubusercontent.com/86478321/184002753-fdd2c8f7-c8ac-4086-86f6-5bac4c07cea4.png" width="600" height="300">
+
+## Things I've learned with this project
+### Soft skills:
+- I was able to test my sense of responsibility by completing the project by a certain date
+- I worked under pressure and was approved by a Henry instructor
+- I learned to investigate and have autonomy, learning new things if necessary in courses and internet bibliography
+- I was also able to develop my sense of creativity by creating the design of the application on my own
+### Technical skills:
+- I was able to learn the development of an individual project from scratch
+- I learned how to use PostgreSQL to create a relational database for my website
+- I learned sequelize, an ORM for NodeJs that allows us to convert database tables into entities in an object-oriented programming language, which greatly speeds up access to this data
+- I used ReactJS to create the necessary components for my website like the search bar or the dog cards for example
+- I learned how to use 'SweetAlerts' to embellish my project alerts
+- I also practiced and use a lot of my css skills setting the designs of every component
+
+## Finally, I want to say thanks for reading everything! You can tell me what do you think or contact me here:
+E-mail: marquitosmedina1@hotmail.com
+Whatsapp instant message: https://bit.ly/MarcosMedinaWhatsapp
