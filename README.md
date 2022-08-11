@@ -147,4 +147,5 @@ To go to the main home page, you must click the 'Enter' button
 
 ## Finally, I want to say thanks for reading everything! You can tell me what do you think or contact me here:
 E-mail: marquitosmedina1@hotmail.com
+
 Whatsapp instant message: https://bit.ly/MarcosMedinaWhatsapp
