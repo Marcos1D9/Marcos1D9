@@ -148,7 +148,7 @@ To go to the main home page, you must click the 'Enter' button
 - I learned how to use 'SweetAlerts' to embellish my project alerts
 - I also practiced and use a lot of my css skills setting the designs of every component
 
-## Finally, I want to say thanks for reading everything! You can tell me what do you think or contact me here:
+## Finally, I want to say thanks for reading everything!😄. You can tell me what do you think or contact me here:
 E-mail: marquitosmedina1@hotmail.com
 
 Whatsapp instant message: https://bit.ly/MarcosMedinaWhatsapp
