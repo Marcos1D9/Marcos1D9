@@ -64,8 +64,6 @@
 
 - Work under pressure, on a fixed date and improving my sense of responsibility deliverying all my work to a github main branch
 
-- 
-
 ### And about my technical skills adquired
 
 - Development of comment backend routes 
