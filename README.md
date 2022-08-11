@@ -58,20 +58,25 @@
 
 ### I learned some soft-skills Like
 
-- Working in a group of developers to plain and assign the tasks to made the project
+- Working in a group of developers to plain and assign the tasks to made the project using a SCRUM method
 
 - Coordinating with my colleagues to connect their work by unifying the frontend with the backend
 
-- Work under pressure, on a fixed date and improving my sense of responsibility
+- Work under pressure, on a fixed date and improving my sense of responsibility deliverying all my work to a github main branch
+
+- 
 
 ### And about my technical skills adquired
 
-- Development of comment routes, book and author hiding, carousel for landing page features.
+- Development of comment backend routes 
 
-- Get information about a new MongoDb database and use your Mongoose ORM to access it
+- Development and creation of book and author hiding functionality for administrators
 
+- carousel logic and functionality for landing page features.
 
+- Learned how to use MongoDb database and its Mongoose ODM (Object Document Mapping)
 
+## I want to thank my work team for the great project, and you for reading this far, below I leave you another project I did in the 'Henry' programming online course
 
 // ----------------------------------------------------------------------------------------------------------------------------------------------------
 # My individual project (PI in Spanish)
