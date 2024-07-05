@@ -1,4 +1,4 @@
-# Hi! Damian here 😄
+# Hi! I'm Damian 😄
 ### I'm a Full-stack (Frontend-oriented) web developer from Argentina 🌐
 
 <img src="https://user-images.githubusercontent.com/86478321/179859451-82a266e4-7c0b-4737-841a-025d55913b0c.jpg" width="900" height="500">
