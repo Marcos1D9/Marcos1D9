@@ -60,10 +60,15 @@ Este proyecto permite a las personas buscar, filtrar y actualizar libros sobre d
 
 
 ---
+
+# 💼 Experiencia:
+
 ## **Ingenium - Sistema de gestión financiera**  
 Ingenium es una aplicación de gestión financiera diseñada para ayudar a los usuarios a llevar un control eficiente y organizado de sus inversiones, ingresos y gastos. Fui responsable de desarrollar la interfaz de usuario y asegurar una experiencia fluida.
 
-(Sitio aún en construcción, no disponible por el momento)
+> [!IMPORTANT]
+> **(Sitio aún en construcción, no disponible por el momento)**
+
 
 [!IngeniumScreenshot](https://github.com/user-attachments/assets/a0aff5d6-8aca-4bcd-aff2-a74c38e1d274)
 
@@ -76,7 +81,7 @@ Ingenium es una aplicación de gestión financiera diseñada para ayudar a los u
 
 ---
 
-# 💼 Experiencia:
+
 
 ## **Desarrollador web Frontend • Munia - Salud Mental y Bienestar en el Trabajo**  
 *Sept. 2023 - Nov. 2023*
@@ -157,10 +162,14 @@ This project provides people with the opportunity to search, filter, and update 
 
 
 ---
+# 💼 Experience:
+
 ## **Ingenium - Financial Management System**  
 Ingenium is a financial management application designed to help users keep track of their investments, income, and expenses in an efficient and organized way. I was responsible for developing the user interface and ensuring a seamless user experience.
 
-(Site is still under construction, and the web is not available yet)
+> [!IMPORTANT]
+> **(Site is still under construction, and the web is not available yet)**
+ 
 
 [!IngeniumScreenshot](https://github.com/user-attachments/assets/a0aff5d6-8aca-4bcd-aff2-a74c38e1d274)
 
@@ -172,8 +181,6 @@ Ingenium is a financial management application designed to help users keep track
 
 
 ---
-
-# 💼 Experience:
 
 ## **Frontend Web Developer • Munia - Mental Health and Well-being at Work**  
 *Sept. 2023 - Nov. 2023*
